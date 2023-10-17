@@ -1,0 +1,27 @@
+body{
+    background-color:rgb(31, 193, 193);
+}
+.container{
+    width:360px;
+    padding:33px;
+    text-align: center;
+    background-color: white;
+    margin-left: 33%;
+    margin-top: 5px;
+}
+input{
+    width:270px;
+    padding: 8px;
+    border:2px solid aqua;
+    outline: none;
+    font-size: 19px;
+
+}
+button{
+    width:60px;
+    height:41px;
+    background-color: black;
+    color:white;
+    border-radius: 2px;
+    font-size: 19px;
+}
